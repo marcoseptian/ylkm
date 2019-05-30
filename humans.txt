@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    A second -- Not Sure -- I'll make my twitter account
+
+# THANKS
+
+    Citra Ayuning Rahayu
+    Yudistira
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Vanilla/Plain Javascript
+    Font Awesome 5
+    WebKit
